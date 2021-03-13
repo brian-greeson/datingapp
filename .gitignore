@@ -449,3 +449,6 @@ $RECYCLE.BIN/
 
 
 appsettings.json
+/client/ssl/*
+/api/ssl/*
+.gitignore
